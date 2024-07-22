@@ -31,3 +31,11 @@
 // console.log(typeof arr); 
 // console.log(typeof obj); 
 
+// reassigne variables 
+// task 4
+
+// let num = 23
+// console.log(num);
+
+// num = 43
+// console.log(num);
