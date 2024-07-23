@@ -6,6 +6,8 @@
 // var num = 23
 // console.log(num);
 
+// task 2
+
 // let str = 'my name is hasan'
 // console.log(str);
 
@@ -48,4 +50,24 @@
 
 // boolean = 'false'
 // console.log(boolean); // typeerror assigment to constant variables
+
+
+// feature request 
+// variables types console log 
+
+
+// const str = 'hasan'
+// const num = 23
+// const boolean = true
+// const arr = []
+// const obj = {}
+
+// console.log(typeof str);
+// console.log(typeof num);
+// console.log(typeof boolean);
+// console.log(typeof arr);
+// console.log(typeof obj);
+
+
+
 
