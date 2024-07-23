@@ -69,5 +69,21 @@
 // console.log(typeof obj);
 
 
+// reassigment variables 
+
+// let num = 50
+// console.log(num);
+
+// num = 100;
+// console.log(num);
+
+
+// const str = 'hasan'
+// console.log(str);
+
+// str = 'khan'
+
+// console.log(str); // TypeError: Assignment to constant variable.
+
 
 
