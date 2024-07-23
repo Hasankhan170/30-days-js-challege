@@ -39,3 +39,13 @@
 
 // num = 43
 // console.log(num);
+
+// understanding const 
+// task 5
+
+// const boolean = 'true'
+// console.log(boolean);
+
+// boolean = 'false'
+// console.log(boolean); // typeerror assigment to constant variables
+
