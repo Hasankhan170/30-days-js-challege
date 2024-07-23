@@ -35,3 +35,18 @@
 // let x = 10;
 // let y = 50;
 // console.log(x % y);
+
+// Activity 2 : Assigment Operators
+
+// task 6
+
+// let x = 10
+// x += 5
+// console.log(x);
+
+
+// task 7
+
+// let x = 20
+// x -= 10
+// console.log(x);
